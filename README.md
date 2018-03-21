@@ -4,4 +4,4 @@ Simpler multithreaded task scheduler. This program is a real time event schedule
 
 Minheap code was provided by instructor
 
-Known Issues: Program crashes after all tasks are completed, simple solution is to exit the program immediately after last task is completed.
+
